@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Najwa Andisty Syifa Aulia](img/headerProfile.png)
+![najwaandistysa](img/headerProfile.png)
 
 - 🌱 I’m currently learning Laravel Framework
