@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![najwaandistysa](img/headerProfile.png)
+![najwaandistysa](img/headerP.png)
 
 - 🌱 I’m currently learning Laravel Framework
